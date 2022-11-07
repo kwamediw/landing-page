@@ -1,10 +1,20 @@
 body {
 	background-color: black;
 }
+* {
+	
+}
 .page-header {
 	height: 88vh;
 }
-.btn{
-   font-style: italic;
-   font-weight: bolder;
+.btn {
+	font-style: italic;
+	font-weight: bolder;
 }
+.hero-container {
+	background-color: rgb(19, 232, 161);
+}
+ul{
+	list-style-type: none;
+}
+
