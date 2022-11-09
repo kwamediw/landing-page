@@ -1,9 +1,6 @@
 body {
 	background-color: black;
 }
-* {
-	
-}
 .page-header {
 	height: 88vh;
 }
@@ -14,7 +11,26 @@ body {
 .hero-container {
 	background-color: rgb(19, 232, 161);
 }
-ul{
+ul {
 	list-style-type: none;
 }
-
+span {
+	font-weight: bolder;
+}
+.social-icons a {
+	text-decoration: none;
+	color: aliceblue;
+}
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	color: aliceblue;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 5px;
+	border-radius: 50%;
+}
+.fa a {
+	height: 30px;
+	width: 50px;
+}
